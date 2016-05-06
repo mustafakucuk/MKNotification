@@ -1,0 +1,3 @@
+#MKNotification{position:fixed;bottom: 0;width:100%;background: #323232;margin: 0 -8px;}
+#MKNotificationText{color:#fff; padding: 15px;}
+#MKNotificationIcon img {width: 21px;float: left;margin: 0 7px;}
